@@ -1,0 +1,36 @@
+<horse>
+    <name>May</name>
+    <breed>American Quarter Horse</breed>
+    <birthYear>2010</birthYear>
+    <birthMonth>5</birthMonth>
+    <birthDay>20</birthDay>
+    <height>15.1</height>
+    <coatColor>Red Roan</coatColor>
+</horse>
+<horse>
+    <name>Crescent</name>
+    <breed>Thoroughbred</breed>
+    <birthYear>2020</birthYear>
+    <birthMonth>9</birthMonth>
+    <birthDay>13</birthDay>
+    <height>16.0</height>
+    <coatColor>Bay</coatColor>
+</horse>
+<horse>
+    <name>May</name>
+    <breed>American Quarter Horse</breed>
+    <birthYear>2010</birthYear>
+    <birthMonth>5</birthMonth>
+    <birthDay>20</birthDay>
+    <height>15.1</height>
+    <coatColor>Red Roan</coatColor>
+</horse>
+<horse>
+    <name>Crescent</name>
+    <breed>Thoroughbred</breed>
+    <birthYear>2020</birthYear>
+    <birthMonth>9</birthMonth>
+    <birthDay>13</birthDay>
+    <height>16.0</height>
+    <coatColor>Bay</coatColor>
+</horse>
